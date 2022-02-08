@@ -1,0 +1,4 @@
+to know how JS uses Interpeter and compiler both at the same time
+
+GO TO THIS: https://assets.digitalocean.com/articles/alligator/js/v8-engine/javascript_journey.png
+
